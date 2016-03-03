@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./registrumpalati00unkngoog_0196.png"; bbox 0 0 3592 5817; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 577 2545 2769 2921">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 577 2545 2769 2921">
+     <span class='ocr_line' id='line_1_1' title="bbox 577 2545 2769 2730; baseline 0.001 -22"><span class='ocrx_word' id='word_1_1' title='bbox 577 2545 1204 2708; x_wconf 77' lang='lat' dir='ltr'><strong>REGISTRUM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1277 2616 1922 2708; x_wconf 83' lang='lat' dir='ltr'><strong>PALATINUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1998 2617 2769 2730; x_wconf 77' lang='lat' dir='ltr'>DUNELMENSE‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 785 2841 2566 2921; baseline 0.001 -3"><span class='ocrx_word' id='word_1_4' title='bbox 785 2842 1226 2921; x_wconf 80' lang='lat' dir='ltr'><strong>RIOARDO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1291 2843 1429 2920; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1498 2841 2017 2920; x_wconf 82' lang='lat' dir='ltr'><strong>KELLAWE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2086 2841 2566 2920; x_wconf 82' lang='lat' dir='ltr'><strong>EPISCOPO·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1377 3019 1973 3105">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1377 3019 1973 3105">
+     <span class='ocr_line' id='line_1_3' title="bbox 1377 3019 1973 3105; baseline -0.005 -20"><span class='ocrx_word' id='word_1_8' title='bbox 1377 3019 1973 3105; x_wconf 62' lang='lat' dir='ltr'>[commun-Um]</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

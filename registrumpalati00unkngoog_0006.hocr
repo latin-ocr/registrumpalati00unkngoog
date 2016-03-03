@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./registrumpalati00unkngoog_0006.png"; bbox 0 0 3592 5817; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 524 1818 2861 2099">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 524 1818 2861 2099">
+     <span class='ocr_line' id='line_1_1' title="bbox 524 1818 2861 1911; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 524 1818 963 1911; x_wconf 85' lang='lat' dir='ltr'><strong>RERUM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1023 1818 2110 1910; x_wconf 85' lang='lat' dir='ltr'><strong>BRITANNICARUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2173 1819 2550 1911; x_wconf 85' lang='lat' dir='ltr'><strong>MED11</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2613 1821 2861 1911; x_wconf 84' lang='lat' dir='ltr'><strong>AEVI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1319 1989 2107 2099; baseline 0.001 -16"><span class='ocrx_word' id='word_1_5' title='bbox 1319 1989 2107 2099; x_wconf 59' lang='lat' dir='ltr'>SCRIPTORE&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 251 2466 3076 2710">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 251 2466 3076 2710">
+     <span class='ocr_line' id='line_1_3' title="bbox 251 2466 3076 2617; baseline -0.002 -55"><span class='ocrx_word' id='word_1_6' title='bbox 251 2470 1017 2617; x_wconf 42' lang='lat' dir='ltr'><strong>‘qk-IRONICLES</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1072 2470 1293 2559; x_wconf 92' lang='lat' dir='ltr'><strong>AND</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1348 2467 1984 2558; x_wconf 82' lang='lat' dir='ltr'><strong>MEMORIALS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2037 2468 2166 2558; x_wconf 87' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2222 2467 2575 2558; x_wconf 86' lang='lat' dir='ltr'><strong>GREAT</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2630 2466 3076 2557; x_wconf 79' lang='lat' dir='ltr'>BRl&#39;rAIN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 296 2610 2092 2710; baseline -0.001 2"><span class='ocrx_word' id='word_1_12' title='bbox 296 2610 444 2667; x_wconf 57' lang='grc' dir='ltr'><strong><em>ς</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1336 2619 1560 2710; x_wconf 88' lang='lat' dir='ltr'><strong>ANI)</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1614 2618 2092 2710; x_wconf 88' lang='lat' dir='ltr'><strong>IRELAND</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1392 2870 1828 2913">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1392 2870 1828 2913">
+     <span class='ocr_line' id='line_1_5' title="bbox 1392 2870 1828 2913; baseline 0.009 -4"><span class='ocrx_word' id='word_1_15' title='bbox 1392 2870 1828 2913; x_wconf 73' lang='lat' dir='ltr'>nnnnnn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1038 3065 2365 3159">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1038 3065 2365 3159">
+     <span class='ocr_line' id='line_1_6' title="bbox 1038 3065 2365 3159; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 1038 3068 1300 3159; x_wconf 85' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1391 3066 1912 3158; x_wconf 87' lang='lat' dir='ltr'><strong>MIDDLE</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 2003 3065 2365 3159; x_wconf 78' lang='lat' dir='ltr'><strong>AGES.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
